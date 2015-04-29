@@ -1,4 +1,4 @@
-<molecule title="ACETYLCHOLINE &amp; stuff" id="m1">
+<molecule title="ACETYLCHOLINE &amp; Test1" id="m1">
   <atomArray>
     <atom id="a1">
 <string builtin="elementType">N</string>
